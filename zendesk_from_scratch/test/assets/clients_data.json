@@ -1,0 +1,41 @@
+{
+    "customers": [
+      {
+        "Cliente ID": 1,
+        "Nombre": "Soobin Do",
+        "Email": "soobin@example.com",
+        "Teléfono": 1112233445,
+        "Dirección": "Seoul, Korea",
+        "Perfil de cliente": "Moderado",
+        "Recomendaciones": "K-pop albums"
+      },
+      {
+        "Cliente ID": 2,
+        "Nombre": "Zhang Wei Xu",
+        "Email": "zhangwei@example.com",
+        "Teléfono": 2223344556,
+        "Dirección": "Beijing, China",
+        "Perfil de cliente": "Impulsivo",
+        "Recomendaciones": "Calligraphy sets"
+      },
+      {
+        "Cliente ID": 3,
+        "Nombre": "Ingrid Van Dijk",
+        "Email": "ingrid@example.com",
+        "Teléfono": 3334455667,
+        "Dirección": "Amsterdam, Netherlands",
+        "Perfil de cliente": "Analítico",
+        "Recomendaciones": "Art exhibitions"
+      },
+      {
+        "Cliente ID": 4,
+        "Nombre": "El cliente",
+        "Email": "cliente@example.com",
+        "Teléfono": 4445566778,
+        "Dirección": "Unknown",
+        "Perfil de cliente": "Desconocido",
+        "Recomendaciones": "Revisar historial"
+      }
+    ]
+  }
+  

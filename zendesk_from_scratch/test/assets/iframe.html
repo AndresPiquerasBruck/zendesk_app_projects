@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Customer Data Viewer</title>
+  <style>
+    /* Estilos para la tabla */
+    .customer-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    .customer-table th,
+    .customer-table td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+
+    .customer-table th {
+      background-color: #f4f4f4;
+    }
+
+    .loading {
+      font-style: italic;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h2>Datos del Cliente</h2>
+    <p>Selecciona un ticket para ver la información del cliente desde el archivo ODS.</p>
+    <div id="customer-data">
+      <p class="loading">Cargando datos del cliente...</p>
+    </div>
+  </div>
+
+  <script src="https://static.zdassets.com/zendesk_app_framework_sdk/2.0/zaf_sdk.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
