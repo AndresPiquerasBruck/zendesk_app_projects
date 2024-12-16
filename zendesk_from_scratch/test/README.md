@@ -1,14 +1,6 @@
-# App name
+# Fetch client data from a database and show it on the ticket view
 
-[brief description of the app]
-
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+[When the agent clicks a ticket view, if the client is in the database, it displays a table with all the information available on the database.]
 
 ### Screenshot(s):
-[put your screenshots down here.]
+![image](https://github.com/user-attachments/assets/61e1740e-98f2-485f-ad31-395d5cab07f3)
